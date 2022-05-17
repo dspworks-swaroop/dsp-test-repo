@@ -1,0 +1,8 @@
+{
+  "name": "DSPWorks Automation Devices",
+  "content_in_root": false,
+  "render_readme": true,
+  "domains": ["fan"],
+  "homeassistant": "0.1.0",
+  "iot_class": "local_push"
+}

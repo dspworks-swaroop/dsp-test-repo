@@ -1,0 +1,15 @@
+{
+  "domain": "dsp_test",
+  "name": "DSPWorks Automation Devices",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/dsp_test",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@dspworks-swaroop"
+  ],
+  "iot_class": "local_push"
+}
